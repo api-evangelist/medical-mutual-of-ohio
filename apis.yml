@@ -1,7 +1,12 @@
 aid: medical-mutual-of-ohio
-url: https://raw.githubusercontent.com/api-evangelist/medical-mutual-of-ohio/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/medical-mutual-of-ohio/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.medical-mutual-of-ohio.com
+description: >-
+  Medical Mutual of Ohio is the oldest and one of the largest health insurance companies
+  based in Ohio, providing health insurance plans to individuals, families, and employer
+  groups.
