@@ -8,7 +8,7 @@ description: >-
   Provider Directory FHIR endpoints, where they exist, are typically reached
   via member or provider account workflows rather than an open developer site.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Health Insurance
   - Healthcare
