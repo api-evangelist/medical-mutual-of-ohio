@@ -1,7 +1,9 @@
 ---
 title: Working Together To Preserve Patient Control
 url: https://americashealthcarefuture.org/what-we-are-for-working-together-to-preserve-patient-control/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Medical Mutual of Ohio" press release artificial intelligence'
 position: 5
 source: serpapi-google

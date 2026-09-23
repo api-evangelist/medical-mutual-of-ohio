@@ -1,7 +1,9 @@
 ---
 title: Cohere Health, Medical Mutual, and Rhyme Partner on ...
 url: https://www.prnewswire.com/news-releases/cohere-health-medical-mutual-and-rhyme-partner-on-utilization-management-transformation-302162495.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Medical Mutual of Ohio" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: 'Data breach: Medical Mutual employee sends private ...'
 url: https://www.cleveland19.com/story/36412619/data-breach-medical-mutual-employee-sends-private-information-for-thousands-to-wrong-email/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Medical Mutual of Ohio" press release artificial intelligence'
 position: 3
 source: serpapi-google

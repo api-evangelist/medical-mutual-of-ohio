@@ -1,7 +1,9 @@
 ---
 title: AI Principles
 url: https://www.medmutual.com/About-Medical-Mutual/AI-Principles
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Medical Mutual of Ohio" press release artificial intelligence'
 position: 1
 source: serpapi-google
