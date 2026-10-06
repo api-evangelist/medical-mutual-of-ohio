@@ -39,10 +39,12 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/medical-mutual-of-ohio/refs/heads/main/apis.yml
 created: '2025-03-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.medmutual.com/About-Medical-Mutual/Newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/medical-mutual-of-ohio-domain-security.yml
   - type: LinkedIn
